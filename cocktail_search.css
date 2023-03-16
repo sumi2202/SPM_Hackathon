@@ -1,5 +1,5 @@
 .navbar.navbar-expand-sm.navbar-dark.text-center.py-3.fixed-top{
-    background: linear-gradient(-45deg, #2d848aff, #0d3b66ff);
+    background: linear-gradient(-45deg, darkblue, rgb(86, 16, 86));
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
     color:#f5f5f5ff;
